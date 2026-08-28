@@ -1,4 +1,4 @@
-package main.java.string.assigment_problems;
+package string.assigment_problems;
 
 public class SeatDuplicationChecker {
 
