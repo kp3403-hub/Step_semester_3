@@ -28,3 +28,4 @@ public class ParallelArraysToClass {
             record.printRecord();
         }
     }
+}    
